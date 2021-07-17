@@ -1,8 +1,7 @@
 # GENE-ANALYSIS 
 
 ## ABOUT
-Small project developed to test several Biopython modules by analysing genes. The main aim is to automatise the whole process of gathering information about genes and proteins and analyse them. 
-For this project the example selected was the cell line OV90 from ovarian cells. This cell line is widely used in studies regarding ovarian cancer, one of the most agressive forms of cancer in females. The expression of STX4, STXBP3 and SNAP29 genes might have a correlation with the development of ovarian cancer. Resorting to bioinformatic tools makes the analysis of this correlation easier, thus facilitating the understanding of the metabolism of OV90 cancer cells in order to find potential drug targets that may help treating this disease.
+A small project was developed to test several Biopython modules by analysing genes. The main aim is to automatise the whole process of gathering information about genes and proteins and analyse them. For this project, the example selected was the cell line OV90 from ovarian cells. This cell line is widely used in studies regarding ovarian cancer, one of the most aggressive forms of cancer in females. The expression of STX4, STXBP3, and SNAP29 genes might have a correlation with the development of ovarian cancer. Resorting to bioinformatic tools makes the analysis of this correlation easier, thus facilitating the understanding of the metabolism of OV90 cancer cells in order to find potential drug targets that may help to treat this disease.
 
 ## Prerequisites
 
